@@ -2,7 +2,7 @@
 # age = 20
 # is_new = True
 # print (Name, age  )
-import math
+# import math
 
 # name = input('what is your name? ')
 # favorite_color = input ('what is your favroute colour? ')
@@ -141,12 +141,6 @@ import math
 # Write a program that asks the user to enter a temperature in Celsius and converts it to Fahrenheit.
 # Then, print whether the temperature is above or below freezing (0°C).
 
-# celsius=int(input('enter a temprature in celsius: '))
-# fahrenhit = (celsius* 9/5) + 32
-# if celsius > 0:
-#     print(f'this tempreture {fahrenhit} °C is above freezing')
-# else:
-#     print(f'this temperature {fahrenhit}°C below freezing')
 
 # Prompt the user to enter a temperature in Celsius
 # celsius = float(input("Enter temperature in Celsius: "))
@@ -205,10 +199,6 @@ import math
 # If the amount is less than $50, no discount is applied.
 # Print the final amount after discount.
 
-# amount = float(input('total amount of purchase'))
-# if amount >100:
-#     discount = amount*0.10:
-# elif 50<= amount <= 100:
 
     # Prompt the user to enter the total purchase amount
 # amount = float(input("Enter the total purchase amount: "))
